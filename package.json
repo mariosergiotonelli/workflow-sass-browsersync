@@ -1,9 +1,17 @@
 {
   "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "breakpoint-sass": "^2.7.1",
     "browser-sync": "^2.18.12",
     "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
     "gulp-concat": "^2.6.1",
-    "gulp-ruby-sass": "^2.1.1",
-    "gulp-sass": "^3.1.0"
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.2",
+    "slick-carousel": "^1.8.1"
+  },
+  "dependencies": {
+    "gulp-plumber": "^1.2.1"
   }
 }
